@@ -331,7 +331,7 @@ body {
   clear: both;
 }
 #header {
-  background: #f08080;
+  background: #f08012;
   padding-bottom: 60px;
   position: relative;
 }
@@ -366,7 +366,7 @@ body {
   font-size: 16px;
   font-style: italic;
   line-height: 70px;
-  color: rgba(255,255,255,0.9);
+  color: #fff;
   text-shadow: 0 1px rgba(0,0,0,0.2);
 }
 .nav-container .nav-icon,
